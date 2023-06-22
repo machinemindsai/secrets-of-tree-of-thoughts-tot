@@ -9,13 +9,6 @@ I've gotten really good, [perhaps too good](https://www.youtube.com/watch?v=MjFK
 
 Now that I’ve been transparent that I’m giving you this bit so you’ll want to buy the [$247 training bundle](https://godsol.gumroad.com/l/prompt-engineering-for-programmers), let’s get some valuable ideas downloaded in your HNN (Human Neural Network, *I’m very humorous so watch out.*)
 
-> Today, I want to talk with you about Tree of Thoughts prompting for coders. But first, look at the pretty art.
-> 
-
-![Here’s “Folding Leaf on the Tree of Knowledge” (2015) a Fractal I rendered at 11k resolution in Chaotica Studio. Okay, now let’s learn some things.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ea978229-79da-4aa0-955e-b6635a0d395b/Folding_Leaf_On_The_Tree_of_Knowledge.jpg)
-
-Here’s “Folding Leaf on the Tree of Knowledge” (2015) a Fractal I rendered at 11k resolution in Chaotica Studio. Okay, now let’s learn some things.
-
 ## The idea behind Tree of Thoughts (ToT) prompting is to outline tasks + branch out (outlines of outlines) into related tasks.
 
 We need to do this to give the LLM a structure to reference when generating results. Remember that a LLM (specifically a Autoregressive Language Model) like ChatGPT is blind in its ability to see the future, even the future text of its own responses.
@@ -68,7 +61,7 @@ The implementation of ToT in software development:
 In the Tree-of-Thoughts (ToT) framework, identifying the seed, or the initial prompt, is crucial. It's the catalyst for all subsequent thought branches. 
 
 <aside>
-🦁 If you've **[purchased our training bundle](https://douglas.life/pefp)** you’re familiar with Cogo as the ultimate way to define your seed using parameters.
+🦁 If you've [purchased our training bundle](https://douglas.life/pefp) you’re familiar with Cogo as the ultimate way to define your seed using parameters.
 
 </aside>
 
