@@ -28,8 +28,6 @@ As this has already been generated, it is not in the future, responses are not b
 
 # So what’s the advantage of ToT over CoT?
 
-![Screen Shot 2023-06-03 at 7.32.51 AM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d9a16188-7441-41cc-8e24-17951f3712f6/Screen_Shot_2023-06-03_at_7.32.51_AM.png)
-
 The advantage ToT has over CoT is it’s more selective, and can backtrack and **prune** unuseful responses to determine the correct path. To do this, we can generate more options, and can explore these options before choosing which branch to use. 
 
 *Because of this, Tree of Thoughts prompting can not only get things “back onto the rails” it can change where the rails go mid-journey (pun? maybe.)*
@@ -60,10 +58,10 @@ The implementation of ToT in software development:
 
 In the Tree-of-Thoughts (ToT) framework, identifying the seed, or the initial prompt, is crucial. It's the catalyst for all subsequent thought branches. 
 
-<aside>
-🦁 If you've [purchased our training bundle](https://douglas.life/pefp) you’re familiar with Cogo as the ultimate way to define your seed using parameters.
 
-</aside>
+> 🦁 If you've [purchased our training bundle](https://douglas.life/pefp) you’re familiar with Cogo as the ultimate way to define your seed using parameters.
+
+
 
 For an advanced programmer, the seed could be a high-level programming challenge or complex software architecture design. The seed must be precise, unambiguous, and contextually relevant, serving as the starting point for reasoning, problem-solving, and decision-making in the project's lifecycle. It sets the tone and direction for the entire project.
 
