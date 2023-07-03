@@ -214,9 +214,7 @@ Your contribution to from this training to support my [idealogical advancements]
 
 *I get it.* It's really hard to rationalize buying educational products now when it seems so easy to get whatever you need from ChatGPT, Clyde, LLaMA, etc. So, go ahead, I’m not trying to stop you, I’m trying to help you from a point of wisdom. I’ve spent a lot of time to save you even more. I promise you’ll find things in my training you won’t find anywhere else, and tricks you’ll use for years to come.
 
-![My baby [cXc.world](http://cXc.world) on the left, and some of the code on the right.](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/270e9779-602d-4f8f-8823-5cac04b45c2e/vlcsnap-2023-06-03-09h01m19s655.png)
 
-My baby [cXc.world](http://cXc.world) on the left, and some of the code on the right.
 
 ### 😎 Gain a skill worth nearly 150k a year 💰 [Get 30% off Prompt Engineering for Programmers with with coupon code “COGO”](https://godsol.gumroad.com/l/prompt-engineering-for-programmers)
 
